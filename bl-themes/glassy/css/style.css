@@ -1,0 +1,30 @@
+/* Video Styles */
+.glossy-video-container {
+    margin: 2rem 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.glossy-video-container video {
+    width: 100%;
+    display: block;
+}
+
+.glossy-video-upload {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: rgba(255,255,255,0.1);
+    border-radius: 6px;
+}
+
+.glossy-video-upload .current-video {
+    margin-top: 1rem;
+}
+
+.glossy-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}

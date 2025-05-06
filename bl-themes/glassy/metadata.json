@@ -1,0 +1,16 @@
+{
+    "name": "Glassy",
+    "version": "1.0.0",
+    "description": "A sleek theme with built-in video support",
+    "author": "Your Name",
+    "releaseDate": "2023-11-15",
+    "compatible": "3.16.2",
+    "includes": {
+        "css": ["style.css"],
+        "php": [
+            "admin-editor.php",
+            "page.php"
+        ]
+    },
+    "plugin": "videoupload"
+}

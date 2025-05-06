@@ -1,0 +1,26 @@
+{
+    "video": {
+        "type": "video",
+        "label": "Demo Video",
+        "tip": "Upload a demonstration video",
+        "position": "top"
+    },
+    "duration": {
+        "type": "string",
+        "label": "Duration",
+        "tip": "Enter the duration (e.g., 30 minutes)",
+        "position": "top"
+    },
+    "price": {
+        "type": "string",
+        "label": "Price",
+        "tip": "Enter the price (e.g., $150)",
+        "position": "top"
+    },
+    "result_image": {
+        "type": "image",
+        "label": "Result Image",
+        "tip": "Upload before/after images",
+        "position": "top"
+    }
+}
