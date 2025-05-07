@@ -39,13 +39,12 @@ You can use PHP Built-in web server (`php -S localhost:8000`) or [Docker image](
 
 ## Support Bludit
 
-Bludit is open-source and free to use, but if you find the project useful and would like to support its development, you can contribute on [Patreon](https://www.patreon.com/bePatron?c=921115&rid=2458860). As a token of our appreciation, supporters will receive Bludit PRO.
+Bludit is open-source and free to use, but if you find the project useful and would like to support its development, you can contribute.
 
-If you prefer, you can also make a one-time donation to buy us a coffee or beer. Every contribution helps us continue to improve Bludit and provide the best possible experience for our users.
+If you prefer, you can also make a one-time donation. Every contribution helps us continue to improve Bludit and provide the best possible experience for our users.
 
-- [PayPal](https://www.paypal.me/bludit/10)
-- BTC (Network BTC): bc1qtets5pdj73uyysjpegfh2gar4pfywra4rglcph
-- ETH (Network ETH): 0x0d7D58D848aA5f175D75Ce4bC746bAC107f331b7
+BTC (Network BTC): 15quapEL3YWgG8cK92wUirByS6WbAod2tR
+
 
 ## License
 
