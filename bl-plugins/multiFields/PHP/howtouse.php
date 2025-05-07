@@ -10,6 +10,3 @@
 <code>&#60;?php multiFields('your-field [value1,value2,value3]') ;?&#62;</code>
 <br>
 <br>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CZR05jpKOAQ?si=m1XoE8xUnwgCt1_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

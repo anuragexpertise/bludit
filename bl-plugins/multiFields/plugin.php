@@ -324,7 +324,7 @@ class multiFields extends Plugin
 
 		echo '<div id="paypal" style="margin-top:10px; background: #fafafa; border:solid 1px #ddd; padding: 10px;box-sizing: border-box; text-align: center;">
 		<p style="margin-bottom:10px;">If you want to see new plugins, buy me a ☕ :) </p>
-		<a href="https://www.paypal.com/donate/?hosted_button_id=TW6PXVCTM5A72"><img alt="" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0"></a>
+		<a href="https://www.paypal.com/donate/?hosted_button_id="><img alt="" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0"></a>
 	</div>';
 	}
 
